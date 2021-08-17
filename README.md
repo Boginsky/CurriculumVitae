@@ -6,7 +6,9 @@
   The purpose of the app is to help user to compose a resume.
   
 ![forgit](https://user-images.githubusercontent.com/76645386/129775434-82f0b2f7-2df5-4a83-9c51-d9a0acd04078.JPG)
+
   You can create your personal account, fill it up by personal data and modify it in future.Also can delete account.
+  
   ![Снимок](https://user-images.githubusercontent.com/76645386/129775477-189ab573-897a-4532-9b3f-09e5c8d4fc73.JPG)
   ![123](https://user-images.githubusercontent.com/76645386/129775497-78b68fb6-8825-438e-871e-610ad77278c6.JPG)
   
